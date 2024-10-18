@@ -1,2 +1,3 @@
-# Skillovilla_Capstone_Excel
-Certification in Data Analytics and Business Analytics
+# Excel-Hypermarket Capstone Project
+## Comprehensive Analysis of Operational Metrics for Enhanced Business Performance
+This capstone report presents a detailed analysis of Hypermarket's operational metrics, focusing on order levels, completion rates, customer value, and delivery efficiency. Through systematic data collection, processing, and analysis, key insights have been derived that highlight order distribution trends, customer lifetime value, and delivery performance across various regions and time slots. The findings aim to provide actionable recommendations to optimize Freshco’s operations, improve customer satisfaction, and drive profitability. By leveraging these insights, hypermarket can enhance its strategic initiatives and respond effectively to customer needs.
